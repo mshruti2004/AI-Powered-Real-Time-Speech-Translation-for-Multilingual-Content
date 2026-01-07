@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+faster-whisper
+pydub
+gtts
+deep-translator
+yt-dlp
+python-multipart
